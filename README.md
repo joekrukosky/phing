@@ -1,4 +1,6 @@
 phing
 =====
 
-My custom phing
+Joe Krukosky phing customizations
+
+Pulled from Joshua Spence
